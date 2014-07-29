@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\pagerSlidingStrip\src\main\res" >
+            <file
+                name="background_tab"
+                path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\pagerSlidingStrip\src\main\res\drawable\background_tab.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\pagerSlidingStrip\src\main\res\values\attrs.xml"
+                qualifiers="" >
+                <declare-styleable name="PagerSlidingTabStrip" >
+                    <attr
+                        name="pstsIndicatorColor"
+                        format="color" />
+                    <attr
+                        name="pstsUnderlineColor"
+                        format="color" />
+                    <attr
+                        name="pstsDividerColor"
+                        format="color" />
+                    <attr
+                        name="pstsIndicatorHeight"
+                        format="dimension" />
+                    <attr
+                        name="pstsUnderlineHeight"
+                        format="dimension" />
+                    <attr
+                        name="pstsDividerPadding"
+                        format="dimension" />
+                    <attr
+                        name="pstsTabPaddingLeftRight"
+                        format="dimension" />
+                    <attr
+                        name="pstsScrollOffset"
+                        format="dimension" />
+                    <attr
+                        name="pstsTabBackground"
+                        format="reference" />
+                    <attr
+                        name="pstsShouldExpand"
+                        format="boolean" />
+                    <attr
+                        name="pstsTextAllCaps"
+                        format="boolean" />
+                </declare-styleable>
+            </file>
+            <file
+                path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\pagerSlidingStrip\src\main\res\values\colors.xml"
+                qualifiers="" >
+                <color name="background_tab_pressed" >#6633B5E5
+                </color>
+            </file>
+        </source>
+        <source path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\pagerSlidingStrip\build\generated\res\rs\release" />
+        <source path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\pagerSlidingStrip\build\generated\res\generated\release" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\pagerSlidingStrip\src\release\res" />
+    </dataSet>
+
+</merger>

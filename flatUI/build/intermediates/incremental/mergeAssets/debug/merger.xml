@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\flatUI\src\main\assets" >
+            <file
+                name="fonts/opensans_bold.ttf"
+                path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\flatUI\src\main\assets\fonts\opensans_bold.ttf" />
+            <file
+                name="fonts/opensans_extrabold.ttf"
+                path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\flatUI\src\main\assets\fonts\opensans_extrabold.ttf" />
+            <file
+                name="fonts/opensans_extralight.ttf"
+                path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\flatUI\src\main\assets\fonts\opensans_extralight.ttf" />
+            <file
+                name="fonts/opensans_light.ttf"
+                path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\flatUI\src\main\assets\fonts\opensans_light.ttf" />
+            <file
+                name="fonts/opensans_regular.ttf"
+                path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\flatUI\src\main\assets\fonts\opensans_regular.ttf" />
+            <file
+                name="fonts/roboto_bold.ttf"
+                path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\flatUI\src\main\assets\fonts\roboto_bold.ttf" />
+            <file
+                name="fonts/roboto_extrabold.ttf"
+                path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\flatUI\src\main\assets\fonts\roboto_extrabold.ttf" />
+            <file
+                name="fonts/roboto_extralight.ttf"
+                path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\flatUI\src\main\assets\fonts\roboto_extralight.ttf" />
+            <file
+                name="fonts/roboto_light.ttf"
+                path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\flatUI\src\main\assets\fonts\roboto_light.ttf" />
+            <file
+                name="fonts/roboto_regular.ttf"
+                path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\flatUI\src\main\assets\fonts\roboto_regular.ttf" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\flatUI\src\debug\assets" />
+    </dataSet>
+
+</merger>

@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_favorite"
+        android:icon="@android:drawable/btn_star_big_off"
+        android:showAsAction="always"
+        android:title="Favorite"
+        android:visible="false">
+    </item>
+    <item
+        android:id="@+id/action_login"
+        android:enabled="true"
+        android:icon="@drawable/ic_login"
+        android:showAsAction="ifRoom"
+        android:title="Login"
+        android:titleCondensed="Login"
+        android:visible="true">
+    </item>
+    <item
+        android:id="@+id/action_related"
+        android:enabled="true"
+        android:title="related videos"
+        android:titleCondensed="related"
+        android:visible="false">
+    </item>
+
+
+</menu><!-- From: file:/C:/Users/chris_000/Desktop/Entwicklung/StudioProjects/HamsterTube/xhamsterTube/src/main/res/menu/main.xml -->

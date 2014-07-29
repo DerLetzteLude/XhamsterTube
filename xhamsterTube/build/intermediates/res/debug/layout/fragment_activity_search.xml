@@ -1,0 +1,137 @@
+<LinearLayout
+    android:id="@+id/LinearLayout1"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_light"
+    android:orientation="vertical"
+    tools:context="com.example.xhamstertube.ActivitySearch$PlaceholderFragment">
+
+    <EditText
+        android:id="@+id/search_querry"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Hot Girls">
+    </EditText>
+
+    <TextView
+        style="?android:listSeparatorTextViewStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Typ"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioGroup
+            android:id="@+id/toggleGroupType"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/searchtogglevideo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:checked="true"
+                android:text="Video"
+                android:textOff="Video"
+                android:textOn="Video"/>
+
+            <RadioButton
+                android:id="@+id/searchtogglephoto"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Photo"
+                android:textOff="Photo"
+                android:textOn="Photo"/>
+        </RadioGroup>
+    </LinearLayout>
+
+    <TextView
+        style="?android:listSeparatorTextViewStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Categories"/>
+
+    <LinearLayout
+        style="?android:buttonBarStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ToggleButton
+            android:id="@+id/searchtogglestraight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:checked="true"
+            android:text="Straight"
+            android:textOff="Straight"
+            android:textOn="Straight"/>
+
+        <ToggleButton
+            android:id="@+id/searchtogglegay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Gay"
+            android:textOff="Gay"
+            android:textOn="Gay"/>
+
+        <ToggleButton
+            android:id="@+id/searchtoggletrans"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Trans"
+            android:textOff="Trans"
+            android:textOn="Trans"/>
+    </LinearLayout>
+
+    <TextView
+        style="?android:listSeparatorTextViewStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sort by"/>
+
+    <Spinner
+        android:id="@+id/searchspinnersort"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/search_sortings"/>
+
+    <TextView
+        style="?android:listSeparatorTextViewStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Date"/>
+
+    <Spinner
+        android:id="@+id/searchspinnerdate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/search_date"/>
+
+    <TextView
+        style="?android:listSeparatorTextViewStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Duration"/>
+
+    <Spinner
+        android:id="@+id/searchspinnerduration"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/search_duration"/>
+
+    <Button
+        android:id="@+id/searchbuttongo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="go"/>
+
+</LinearLayout><!-- From: file:/C:/Users/chris_000/Desktop/Entwicklung/StudioProjects/HamsterTube/xhamsterTube/src/main/res/layout/fragment_activity_search.xml -->

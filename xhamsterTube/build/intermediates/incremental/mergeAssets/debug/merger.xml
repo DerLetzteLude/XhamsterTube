@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="20.0.0" >
+        <source path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\xhamsterTube\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\assets" />
+    </dataSet>
+    <dataSet config="unspecified" >
+        <source path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\xhamsterTube\build\intermediates\exploded-aar\HamsterTube\flatUI\unspecified\assets" >
+            <file
+                name="fonts/opensans_bold.ttf"
+                path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\xhamsterTube\build\intermediates\exploded-aar\HamsterTube\flatUI\unspecified\assets\fonts\opensans_bold.ttf" />
+            <file
+                name="fonts/opensans_extrabold.ttf"
+                path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\xhamsterTube\build\intermediates\exploded-aar\HamsterTube\flatUI\unspecified\assets\fonts\opensans_extrabold.ttf" />
+            <file
+                name="fonts/opensans_extralight.ttf"
+                path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\xhamsterTube\build\intermediates\exploded-aar\HamsterTube\flatUI\unspecified\assets\fonts\opensans_extralight.ttf" />
+            <file
+                name="fonts/opensans_light.ttf"
+                path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\xhamsterTube\build\intermediates\exploded-aar\HamsterTube\flatUI\unspecified\assets\fonts\opensans_light.ttf" />
+            <file
+                name="fonts/opensans_regular.ttf"
+                path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\xhamsterTube\build\intermediates\exploded-aar\HamsterTube\flatUI\unspecified\assets\fonts\opensans_regular.ttf" />
+            <file
+                name="fonts/roboto_bold.ttf"
+                path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\xhamsterTube\build\intermediates\exploded-aar\HamsterTube\flatUI\unspecified\assets\fonts\roboto_bold.ttf" />
+            <file
+                name="fonts/roboto_extrabold.ttf"
+                path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\xhamsterTube\build\intermediates\exploded-aar\HamsterTube\flatUI\unspecified\assets\fonts\roboto_extrabold.ttf" />
+            <file
+                name="fonts/roboto_extralight.ttf"
+                path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\xhamsterTube\build\intermediates\exploded-aar\HamsterTube\flatUI\unspecified\assets\fonts\roboto_extralight.ttf" />
+            <file
+                name="fonts/roboto_light.ttf"
+                path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\xhamsterTube\build\intermediates\exploded-aar\HamsterTube\flatUI\unspecified\assets\fonts\roboto_light.ttf" />
+            <file
+                name="fonts/roboto_regular.ttf"
+                path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\xhamsterTube\build\intermediates\exploded-aar\HamsterTube\flatUI\unspecified\assets\fonts\roboto_regular.ttf" />
+        </source>
+    </dataSet>
+    <dataSet config="unspecified" >
+        <source path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\xhamsterTube\build\intermediates\exploded-aar\HamsterTube\photoView\unspecified\assets" />
+    </dataSet>
+    <dataSet config="unspecified" >
+        <source path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\xhamsterTube\build\intermediates\exploded-aar\HamsterTube\androidViewAnimations\unspecified\assets" />
+    </dataSet>
+    <dataSet config="19.1.0" >
+        <source path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\xhamsterTube\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\assets" />
+    </dataSet>
+    <dataSet config="unspecified" >
+        <source path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\xhamsterTube\build\intermediates\exploded-aar\HamsterTube\pagerSlidingStrip\unspecified\assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\xhamsterTube\src\main\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\chris_000\Desktop\Entwicklung\StudioProjects\HamsterTube\xhamsterTube\src\debug\assets" />
+    </dataSet>
+
+</merger>

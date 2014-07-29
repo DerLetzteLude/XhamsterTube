@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_subscribe"
+        android:title="subscribe"/>
+
+</menu><!-- From: file:/C:/Users/chris_000/Desktop/Entwicklung/StudioProjects/HamsterTube/xhamsterTube/src/main/res/menu/userinfo.xml -->

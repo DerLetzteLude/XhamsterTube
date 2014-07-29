@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HamsterTube.iml" filepath="$PROJECT_DIR$/HamsterTube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidViewAnimations/androidViewAnimations.iml" filepath="$PROJECT_DIR$/androidViewAnimations/androidViewAnimations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flatUI/flatUI.iml" filepath="$PROJECT_DIR$/flatUI/flatUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nineOldAndroids/nineOldAndroids.iml" filepath="$PROJECT_DIR$/nineOldAndroids/nineOldAndroids.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pagerSlidingStrip/pagerSlidingStrip.iml" filepath="$PROJECT_DIR$/pagerSlidingStrip/pagerSlidingStrip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/photoView/photoView.iml" filepath="$PROJECT_DIR$/photoView/photoView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springLayout/springLayout.iml" filepath="$PROJECT_DIR$/springLayout/springLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xhamsterTube/xhamsterTube.iml" filepath="$PROJECT_DIR$/xhamsterTube/xhamsterTube.iml" />
+    </modules>
+  </component>
+</project>
+

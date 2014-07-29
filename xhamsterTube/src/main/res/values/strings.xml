@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HamsterTube</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="categories_straight">
+        <item>New</item>
+        <item>German</item>
+        <item>Amateur</item>
+        <item>Anal</item>
+        <item>Asian</item>
+        <item>BBW</item>
+        <item>BDSM</item>
+        <item>Beach</item>
+        <item>Big Boobs,big_boobs</item>
+        <item>Bisexuals</item>
+        <item>Black and Ebony,ebony</item>
+        <item>Blondes</item>
+        <item>Blowjobs</item>
+        <item>Brunettes</item>
+        <item>Cartoons</item>
+        <item>Celebrities,celebs</item>
+        <item>Close-ups,close_ups</item>
+        <item>Cream Pie,creampie</item>
+        <item>Cumshots</item>
+        <item>Facials</item>
+        <item>Femdom</item>
+        <item>Fingering</item>
+        <item>Flashing</item>
+        <item>Funny</item>
+        <item>Group Sex,group</item>
+        <item>Hairy</item>
+        <item>Handjobs</item>
+        <item>Hardcore</item>
+        <item>Hidden Cams,hidden</item>
+        <item>Interracial</item>
+        <item>Latin</item>
+        <item>Lesbians</item>
+        <item>Masturbation</item>
+        <item>Matures</item>
+        <item>Men</item>
+        <item>MILFs</item>
+        <item>Nipples</item>
+        <item>Old+Young,old_young</item>
+        <item>Pornstars</item>
+        <item>Public Nudity,public</item>
+        <item>Redheads</item>
+        <item>Sex Toys,toys</item>
+        <item>Shemales</item>
+        <item>Showers</item>
+        <item>Stockings</item>
+        <item>Teens</item>
+        <item>Tits</item>
+        <item>Upskirts</item>
+        <item>Vintage</item>
+        <item>Voyeur</item>
+        <item>Webcams</item>
+    </string-array>
+    <string-array name="categories_pictures">
+        <item>Amateur</item>
+        <item>Anal</item>
+        <item>Asian</item>
+        <item>Asses</item>
+        <item>Babes</item>
+        <item>BBW</item>
+        <item>BDSM</item>
+        <item>Beach	</item>
+        <item>Big Boobs</item>
+        <item>Bisexuals	</item>
+        <item>Black and Ebony;ebony</item>
+        <item>Blondes</item>
+        <item>Blowjobs</item>
+        <item>Brunettes</item>
+        <item>Camel</item>
+        <item>Toes</item>
+        <item>Cartoons</item>
+        <item>Celebrities</item>
+        <item>Close-ups;close_ups</item>
+        <item>Cream Pie;creampie</item>
+        <item>Cumshots</item>
+        <item>Facials</item>
+        <item>Femdom</item>
+        <item>Fingering</item>
+        <item>Flashing</item>
+        <item>Funny</item>
+        <item>Group Sex;group</item>
+        <item>Hairy</item>
+        <item>Handjobs</item>
+        <item>Hardcore</item>
+        <item>Hidden</item>
+        <item>Cams</item>
+        <item>Interracial</item>
+        <item>Latin</item>
+        <item>Lesbians</item>
+        <item>Masturbation</item>
+        <item>Matures</item>
+        <item>Men</item>
+        <item>MILFs</item>
+        <item>Nipples</item>
+        <item>NON-Porn</item>
+        <item>Old+Young;old_young</item>
+        <item>Pornstars</item>
+        <item>Public</item>
+        <item>Nudity</item>
+        <item>Redheads</item>
+        <item>Sex</item>
+        <item>Toys</item>
+        <item>Shemales</item>
+        <item>Stockings</item>
+        <item>Showers</item>
+        <item>Teens</item>
+        <item>Tits</item>
+        <item>Upskirts</item>
+        <item>Vintage</item>
+        <item>Voyeur</item>
+        <item>Webcams</item>
+    </string-array>
+    <string-array name="categories_gay">
+        <item>Amateur,Amateur_gays</item>
+        <item>Bukkake,Bukkake_gays</item>
+        <item>Gays,</item>
+        <item>Massage,gay_Massage</item>
+        <item>Spanking,gays_Spanking</item>
+        <item>Asian,Asian_gays</item>
+        <item>Crossdressers</item>
+        <item>Glory Holes,gay_Glory_Holes</item>
+        <item>Masturbation,gay_Masturbation</item>
+        <item>Striptease,gay_Striptease</item>
+        <item>BDSM,gay_BDSM</item>
+        <item>Cum</item>
+        <item>Tributes</item>
+        <item>Group Sex,group_sex_gays></item>
+        <item>Men</item>
+        <item>Twinks</item>
+        <item>Bareback</item>
+        <item>Daddies,gay_daddies</item>
+        <item>HD Gays</item>
+        <item>Military,military_gays</item>
+        <item>Vintage,vintage_gays</item>
+        <item>Beach,beach_gays</item>
+        <item>Emo Boys,emo_gays</item>
+        <item>Handjobs,gay_handjobs</item>
+        <item>Muscle,muscle_gays</item>
+        <item>Voyeur,gay_voyeur</item>
+        <item>Bears,gay_bears</item>
+        <item>Fat Gays,fat_gays</item>
+        <item>Hunks</item>
+        <item>Old+Young,old_young_gays</item>
+        <item>Webcams,gay_webcams</item>
+        <item>Big Cocks</item>
+        <item>Fisting,gay_fisting</item>
+        <item>Interracial,interracial_gays</item>
+        <item>Outdoor,outdoor_gays</item>
+        <item>Wrestling,gay_wrestling</item>
+        <item>Black Gays,black_gays</item>
+        <item>Gangbang,gay_gangbang</item>
+        <item>Latin,latin_gays</item>
+        <item>Sex Toys,gay_sex_toys</item>
+        <item>Blowjobs,blowjobs_gays</item>
+        <item>Gaping,gay_gaping</item>
+        <item>Locker Rooms,locker_rooms</item>
+        <item>Small Cocks,small_cocks</item>
+    </string-array>
+    <string-array name="categories_transsexual">
+        <item>Amateur,amateur_shemales</item>
+        <item>Blowjobs,blowjobs_shemales</item>
+        <item>Latex,latex_shemales</item>
+        <item>Shemale Fucks Girl,shemale_girl</item>
+        <item>Teens,teen_shemales</item>
+        <item>BDSM,bdsm_shemales</item>
+        <item>Creampie,creampie_shemales</item>
+        <item>Latin,latin_shemales</item>
+        <item>Shemale Fucks Guy,shemale_fucks_guy</item>
+        <item>Vintage,vintage_shemales</item>
+        <item>Bareback,bareback_shemales</item>
+        <item>Gangbang,gangbang_shemales</item>
+        <item>Lingerie,lingerie_shemales</item>
+        <item>Shemale Fucks Shemale,shemale_fucks_shemale</item>
+        <item>Webcams,shemales_webcams</item>
+        <item>Big Asses,big_ass_shemales</item>
+        <item>Guy Fucks Shemale,guy_fucks_shemale</item>
+        <item>Masturbation,shemales_masturbation</item>
+        <item>Shemales,shemales</item>
+        <item>Big Cocks,big_cocks_shemales</item>
+        <item>HD Shemales,hd_shemales</item>
+        <item>Outdoor,outdoor_shemales</item>
+        <item>Small Tits,small_tits_shemales</item>
+        <item>Big Tits,big_tits_shemales</item>
+        <item>Interracial,interracial_shemales</item>
+        <item>POV,pov_shemales-1</item>
+        <item>Solo,solo_shemales></item>
+        <item>Black,black_shemales</item>
+        <item>Ladyboys,ladyboys</item>
+        <item>Sex Toys,sex_toys_shemales</item>
+        <item>Stockings,shemales_in_stockings</item>
+    </string-array>
+    <string-array name="drawer_items">
+        <item>Top</item>
+        <item>Favorites</item>
+        <item>Categories</item>
+    </string-array>
+
+
+    <array name="search_sortings">
+        <item>Relevance</item>
+        <item>Date Added</item>
+        <item>Views</item>
+        <item>Rating</item>
+        <item>Duration</item>
+    </array>
+    <array name="search_duration">
+        <item>Any</item>
+        <item>0-10 min.</item>
+        <item>10-40 min.</item>
+        <item>40+ min.</item>
+    </array>
+    <array name="search_date">
+        <item>Anytime</item>
+        <item>Last Day</item>
+        <item>Last Week</item>
+        <item>Last Month</item>
+        <item>Last Year</item>
+    </array>
+
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+    <string name="search_title">search</string>
+    <string name="next_page">next</string>
+
+    <array name="top_options">
+        <item>weekly</item>
+        <item>monthly</item>
+        <item>alltime</item>
+    </array>
+    <array name="orientation">
+        <item>Straight</item>
+        <item>Gay</item>
+        <item>Transsexuals</item>
+    </array>
+
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_activity_search">Suche</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

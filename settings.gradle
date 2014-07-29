@@ -1,0 +1,8 @@
+include ':androidViewAnimations'
+include ':flatUI'
+include ':nineOldAndroids'
+include ':pagerSlidingStrip'
+include ':photoView'
+include ':xhamsterTube'
+include ':springLayout'
+include ':springLayout'

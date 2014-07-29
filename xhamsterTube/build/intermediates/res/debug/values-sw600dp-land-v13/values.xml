@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/chris_000/Desktop/Entwicklung/StudioProjects/HamsterTube/xhamsterTube/src/main/res/values-sw600dp-land/integers.xml -->
+    <eat-comment />
+
+    <integer name="gridcolumns">2</integer>
+    <integer name="orientation">2</integer>
+
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/card_background_padding" >
+
+    <TextView
+        android:id="@+id/commentUsername"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:text="TextView"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <View
+        android:id="@+id/comment_divider"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/commentUsername"
+        android:background="@android:color/darker_gray" />
+
+    <helper.SquareImageView
+        android:id="@+id/commentUserImage"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/comment_divider"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+         />
+
+    <TextView
+        android:id="@+id/commentAddedAtText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="5dp"
+        android:text="Small Text"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/comment_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/commentAddedAtText"
+        android:layout_alignTop="@+id/commentUserImage"
+        android:layout_marginLeft="5dp"
+        android:layout_toRightOf="@+id/commentUserImage"
+        android:text="TextView"
+        android:linksClickable="true"
+        android:autoLink="web"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</RelativeLayout><!-- From: file:/C:/Users/chris_000/Desktop/Entwicklung/StudioProjects/HamsterTube/xhamsterTube/src/main/res/layout/listitem_comment.xml -->

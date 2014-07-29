@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/card_background_padding" >
+
+    <ImageView
+        android:id="@+id/grid_item_image"
+        android:layout_width="240dp"
+        android:layout_height="180dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:scaleType="centerCrop" />    
+
+    <TextView
+        android:id="@+id/grid_item_runtime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/grid_item_image"
+        android:layout_alignLeft="@+id/grid_item_image"
+        android:background="@android:color/black"
+        android:paddingBottom="4dp"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:paddingTop="4dp"
+        android:textColor="@android:color/white" />
+
+    <ImageView
+        android:id="@+id/imgViews"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/grid_item_image"
+        android:layout_toRightOf="@+id/grid_item_image"
+        android:src="@android:drawable/ic_menu_view" />
+
+    <TextView
+        android:id="@+id/grid_item_views"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/grid_item_image"
+        android:layout_toRightOf="@+id/imgViews"
+        android:gravity="right"
+        android:paddingLeft="10dp"
+        android:text="Views"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/content_item_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/imgViews"
+        android:layout_alignParentTop="true"
+        android:maxLines="3"
+        android:paddingLeft="5dp"
+        android:text="TITLE"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+</RelativeLayout>

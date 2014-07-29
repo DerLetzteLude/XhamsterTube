@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_favorite"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_action_favorite_outline"
+        android:title="Favorite"
+        android:visible="true"></item>
+    <item
+        android:id="@+id/action_userinfio"
+        android:enabled="true"
+        android:showAsAction="ifRoom"
+        android:title="Userinfo"
+        android:titleCondensed="Userinfo"
+        android:visible="true"></item>
+    <item
+        android:id="@+id/action_share"
+        android:actionProviderClass="android.widget.ShareActionProvider"
+        android:showAsAction="ifRoom"
+        android:title="Share" />
+</menu><!-- From: file:/C:/Users/chris_000/Desktop/Entwicklung/StudioProjects/HamsterTube/xhamsterTube/src/main/res/menu/galleryviewer.xml -->
